@@ -9,6 +9,9 @@ main{
 header{
     display: flex;
     background-color: rgb(225, 6, 0);
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
 
 h1 {
@@ -20,7 +23,10 @@ img{
 }
 
 a img {
+    position: absolute;
     width: 40px;
+    display: flex;
+    left: 92%;
 }
 
 h1{
