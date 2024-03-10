@@ -29,7 +29,15 @@ header img{
     padding: 35px;
 }
 
-h1 {
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+    padding: 1%;
+    margin-left: 2%;
+    
+}
+
+div h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -110,7 +118,7 @@ footer p {
 }
 
 footer img {
-    padding-left: 30%;
+    padding-left: 40%;
     width: 100px;
     height: auto;
 }
